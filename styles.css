@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Nobile&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Knewave&family=Nobile&display=swap');
+body {
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-family: 'Knewave', cursive;
+font-family: 'Nobile', sans-serif; */
+font-family: 'Alegreya Sans', sans-serif !important;
+background-color: #ffead8 !important;
+/* width: fit-content; */
+}
+.vapeImage{
+  width: 50%;
+}
+.container-new-card {
+  margin: 30px auto;
+}
+.underLogoText{
+  background:white
+}
+.card-new-card {
+  border-radius: 25px;
+  box-shadow: -11px 11px 1px rgba(0, 0, 0, 0.3);
+}
+
+.card-head-new-card {
+  position: relative;
+  height: 252px;
+  /* background: white; */
+  border-bottom: 1px solid black;
+  /* Old browsers */
+  /* background: -moz-linear-gradient(-45deg, #fa782e 8%, #c82930 83%); */
+  /* FF3.6-15 */
+  /* background: -webkit-linear-gradient(-45deg, #fa782e 8%, #c82930 83%); */
+  /* Chrome10-25,Safari5.1-6 */
+   background: linear-gradient(135deg, #fa782e 8%, #c82930 83%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fa782e', endColorstr='#c82930', GradientType=1);
+  /* IE6-9 fallback on horizontal gradient */
+  border-radius: 25px 25px 0 0;
+}    
+.product-detail {
+  padding: 0 20px;
+  font-size: 11px;
+  color: #fff;
+}
+
+.product-detail h4 {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.card-body-new-card {
+  height: 255px;
+  background: #fff;
+  border-radius: 0 0 25px 25px;
+}
+
+.product-title {
+  padding: 20px 20px 5px 20px;
+  display: block;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.product-title b {
+  font-weight: 900;
+  letter-spacing: 0px;
+}
+
+.badge {
+  position: relative;
+  font-size: 10px;
+  font-weight: 300;
+  height: fit-content;
+  color: #fff;
+  background: #11e95b;
+  padding: 2px 5px;
+  border-radius: 4px;
+  top: -2px;
+  margin-left: 5px;
+}
+
+.product-size h4 {
+  padding: 0 21px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+button{
+  font-family: 'Roboto', sans-serif;
+
+}
+.addtoFavourite{
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+}
+.button-17 {
+  align-items: center;
+  appearance: none;
+  background-color: #fff;
+  border-radius: 24px;
+  border-style: none;
+  box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+  box-sizing: border-box;
+  color: #3c4043;
+  cursor: pointer;
+  display: inline-flex;
+  fill: currentcolor;
+  font-family: "Google Sans",Roboto,Arial,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: .25px;
+  line-height: normal;
+  max-width: 100%;
+  overflow: visible;
+  padding: 2px 24px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transition: box-shadow 280ms cubic-bezier(.4, 0, .2, 1),opacity 15ms linear 30ms,transform 270ms cubic-bezier(0, 0, .2, 1) 0ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: auto;
+  will-change: transform,opacity;
+  z-index: 0;
+}
+
+.button-17:hover {
+  background: #F6F9FE;
+  color: #174ea6;
+}
+
+.button-17:active {
+  box-shadow: 0 4px 4px 0 rgb(60 64 67 / 30%), 0 8px 12px 6px rgb(60 64 67 / 15%);
+  outline: none;
+}
+
+.button-17:focus {
+  outline: none;
+  border: 2px solid #4285f4;
+}
+
+.button-17:not(:disabled) {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.button-17:not(:disabled):hover {
+  box-shadow: rgba(60, 64, 67, .3) 0 2px 3px 0, rgba(60, 64, 67, .15) 0 6px 10px 4px;
+}
+
+.button-17:not(:disabled):focus {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.button-17:not(:disabled):active {
+  box-shadow: rgba(60, 64, 67, .3) 0 4px 4px 0, rgba(60, 64, 67, .15) 0 8px 12px 6px;
+}
+
+.button-17:disabled {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.heartDefaultColour{
+  color: #b1b1b1
+}
+
+@media only screen and (max-width: 500px) {
+  .logoContainer{
+  height: 100vh;
+    display: flex;
+    align-items: center;
+}
+}
+
+

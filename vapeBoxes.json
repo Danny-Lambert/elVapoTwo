@@ -1,0 +1,51 @@
+[{
+    "id": "1",
+	"image":"https://ukvapekings.com/wp-content/uploads/2018/05/mystery-boxes-1_1024x1024.jpg",
+	"brand": "El Vapo",
+
+	"flavour": "Mystery Box",
+	"price": "15",
+    "description": "A mix of different flavours and brands",
+	"onOffer": "false",
+	"offerPrice": "2",
+    "quanity": "5",
+	"isPremium": "false",
+	"isFav": false,
+	"outOfStock": "true",
+	"nicotinePercentage": "1mg",
+	"country": "Turks and Caicos Islands",
+	"countryCode": "TC"
+},{
+    "id": "1",
+	"image":"./assets/logo.png",
+    "quanity": "5",
+    "description": "Specially chosen by El Vapo himself, this box is the house choice",
+    "brand": "El Vapo",
+	"flavour": "El Vapo Box",
+	"price": "15",
+	"onOffer": "false",
+	"offerPrice": "2",
+	"isPremium": "false",
+	"isFav": false,
+	"outOfStock": "true",
+	"nicotinePercentage": "1mg",
+	"country": "Turks and Caicos Islands",
+	"countryCode": "TC"
+},{
+    "id": "1",
+	"image":"https://cdn.shopify.com/s/files/1/1803/4117/products/the-e-cig-store-disposable-mystery-disposable-kit-box-10-pack-30236324692037_700x700.jpg?v=1646257094",
+    "quanity": "5",
+    "description": "Flavours and brands from around the world, if your looking to something new",
+    "brand": "El Vapo",
+	"flavour": "Around the World Box",
+	"price": "15",
+	"onOffer": "false",
+	"offerPrice": "2",
+	"isPremium": "false",
+	"isFav": false,
+	"outOfStock": "true",
+	"nicotinePercentage": "1mg",
+	"country": "Turks and Caicos Islands",
+	"countryCode": "TC"
+}
+]
