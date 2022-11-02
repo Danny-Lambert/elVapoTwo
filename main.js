@@ -60,7 +60,7 @@ const newVapeBoxes = vapeBoxData.map((vapeBoxes) => {
             </div>
             <div class="product-properties">
             <span class="product-size mb-3 ms-2 row ms-0 col-12">
-                <p class="col-auto ps-0 mx-2">${vapeBoxes.description}</p>
+                <p class="col-auto px-5 ps-0 mx-2">${vapeBoxes.description}</p>
             </span>
             <br/>
             </div>

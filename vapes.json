@@ -72,7 +72,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "0mg",
 	"country": "Argentina",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-tobacco-geek-bar-disposable-device_large.jpg?v=1623064396" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-cola-ice-disposable-vape_1080x.png?v=1667311203" ,
 "countryCode": "AI"
 },
 {
@@ -117,7 +117,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "10mg",
 	"country": "Ghana",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-cola-disposable-device_large.jpg?v=1626883903" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ivg-bar-plus-vanilla-custard-tobacco-disposable-vape-device_1080x.png?v=1666096476" ,
 "countryCode": "BZ"
 },
 {
@@ -190,7 +190,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "20mg",
 	"country": "Qatar",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_large.jpg?v=1653244834" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-lemon-peach-passion-fruit-disposable-vape_1080x.png?v=1667311250" ,
 "countryCode": "SY"
 },
 
@@ -254,7 +254,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "5mg",
 	"country": "South Africa",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-watermelon-ice-geek-bar-disposable-device_large.jpg?v=1623064252" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-lemon-and-lime-disposable-vape_1080x.png?v=1657810531" ,
 "countryCode": "ES"
 },
 {
@@ -290,8 +290,8 @@
 {
 	"id": "19",
 "brand": "Voopoo",
-	"flavour": "Blueberry",
-	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-blueberry-sour-raspberry-disposable-device_large.jpg?v=1635154082",
+	"flavour": "Mango",
+	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-voopoo-dragbar-600-disposable-omg_1080x.png?v=1666022213",
 	"price": "5",
 	"onOffer": "true",
 	"offerPrice": "2",
@@ -318,21 +318,7 @@
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-disposable-device-watermelon_1080x.png?v=1666108459" ,
 "countryCode": "PM"
 },
-{
-	"id": "21",
-"brand": "randomSMOKAspire",
-	"flavour": "Tobacco",
-	"price": "6",
-	"onOffer": "true",
-	"offerPrice": "2",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "20mg",
-	"country": "Belarus",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-tobacco-geek-bar-disposable-device_large.jpg?v=1623064396" ,
-"countryCode": "MZ"
-},
+
 {
 	"id": "22",
 "brand": "Geek Bar",
@@ -421,7 +407,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "5mg",
 	"country": "Antigua and Barbuda",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-dragbar-600-disposable-device-mango-ice_large.jpg?v=1637241533" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-berry-ice-disposable-vape_1080x.png?v=1667312565" ,
 "countryCode": "GB"
 },
 {
@@ -436,7 +422,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "20mg",
 	"country": "Macedonia, The Former Yugoslav Republic of",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-dragbar-600s-disposable-pineapple-mango_large.jpg?v=1653304774" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-cola-ice-disposable-vape_1080x.png?v=1667311203" ,
 "countryCode": "MX"
 },
 {
@@ -481,7 +467,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "10mg",
 	"country": "Papua New Guinea",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-lite-peach-disposable-device_large.jpg?v=1631008273" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-voopoo-dragbar-600-disposable-green-apple-ice_1080x.png?v=1666021385" ,
 "countryCode": "TZ"
 },
 {
@@ -564,7 +550,7 @@
 	"id": "39",
 "brand": "Voopoo",
 	"flavour": "Blueberry Sour",
-	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-blueberry-sour-raspberry-disposable-device_large.jpg?v=1635154082",
+	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-voopoo-dragbar-600s-disposable-menthol_1080x.png?v=1666022470",
 	"price": "5",
 	"onOffer": "true",
 	"offerPrice": "2",
@@ -607,7 +593,7 @@
 },
 {
 	"id": "43",
-"brand": "Innokin",
+"brand": "IVG Crystal",
 	"flavour": "Cherry Cola",
 	"price": "2",
 	"onOffer": "true",
@@ -617,7 +603,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "0mg",
 	"country": "Liberia",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ultd-salts-getsome-grape-20mg-disposable-puff-bar-device_large.jpg?v=1610102499" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ivg-crystal-bar-cherry-cola-disposable-vape_1080x.png?v=1660550022" ,
 "countryCode": "PR"
 },
 {
@@ -662,7 +648,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "0mg",
 	"country": "Peru",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-watermelon-ice-disposable-vape_large.png?v=1657811337" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-voopoo-dragbar-600-disposable-lush-ice_1080x.png?v=1666021391" ,
 "countryCode": "PL"
 }
 ]
