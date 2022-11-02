@@ -30,20 +30,36 @@
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-tobacco-disposable-device_1080x.png?v=1666179089" ,
 "countryCode": "RO"
 },
-	{
-	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-blue-razz_1080x.png?v=1666013656",
-	"id": "49",
-	"brand": "FleurBar",
-	"flavour": "Blue Razz",
+
+{
+	"id": "11",
+"brand": "FleurBar",
+	"flavour": "Orange & Mango",
 	"price": "6",
 	"onOffer": "false",
-	"offerPrice": "2",
-	"isPremium": "false",
+	"offerPrice": "1",
+	"isPremium": "true",
 	"isFav": false,
 	"outOfStock": "true",
-	"nicotinePercentage": "1mg",
-	"country": "Turks and Caicos Islands",
-    "countryCode": "TC"
+	"nicotinePercentage": "20mg",
+	"country": "Virgin Islands, British",
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_1080x.png?v=1666013572" ,
+"countryCode": "PW"
+},
+{
+	"id": "6",
+"brand": "FleurBar",
+	"flavour": "Helsinki Carrot Casserole",
+	"price": "2",
+	"onOffer": "false",
+	"offerPrice": "2",
+	"isPremium": "true",
+	"isFav": false,
+	"outOfStock": "true",
+	"nicotinePercentage": "10mg",
+	"country": "Northern Mariana Islands",
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_1080x.png?v=1666013572" ,
+"countryCode": "KR"
 },
 {
 	"id": "1",
@@ -76,21 +92,6 @@
 "countryCode": "AI"
 },
 {
-	"id": "3",
-"brand": "Geek Bar",
-	"flavour": "Jager Bombs",
-	"price": "7",
-	"onOffer": "true",
-	"offerPrice": "2",
-	"isPremium": "false",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "5mg",
-	"country": "Thailand",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-elfbull-ice-disposable-device_large.jpg?v=1649673353" ,
-"countryCode": "RE"
-},
-{
 	"id": "4",
 "brand": "FleurBar",
 	"flavour": "Lemon",
@@ -121,20 +122,21 @@
 "countryCode": "BZ"
 },
 {
-	"id": "6",
-"brand": "FleurBar",
-	"flavour": "Helsinki Carrot Casserole",
-	"price": "2",
+	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-blue-razz_1080x.png?v=1666013656",
+	"id": "49",
+	"brand": "FleurBar",
+	"flavour": "Blue Razz",
+	"price": "6",
 	"onOffer": "false",
 	"offerPrice": "2",
-	"isPremium": "true",
+	"isPremium": "false",
 	"isFav": false,
 	"outOfStock": "true",
-	"nicotinePercentage": "10mg",
-	"country": "Northern Mariana Islands",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_1080x.png?v=1666013572" ,
-"countryCode": "KR"
-},{
+	"nicotinePercentage": "1mg",
+	"country": "Turks and Caicos Islands",
+    "countryCode": "TC"
+},
+{
 	"id": "7",
 "brand": "Vaporesso",
 	"flavour": "Caramel",
@@ -194,36 +196,7 @@
 "countryCode": "SY"
 },
 
-{
-	"id": "11",
-"brand": "Elf Bar",
-	"flavour": "Apple",
-	"price": "6",
-	"onOffer": "false",
-	"offerPrice": "1",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "20mg",
-	"country": "Virgin Islands, British",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_1080x.png?v=1666013572" ,
-"countryCode": "PW"
-},
-{
-	"id": "12",
-"brand": "Elf Bar",
-	"flavour": "Helsinki Carrot Casserole",
-	"price": "6",
-	"onOffer": "false",
-	"offerPrice": "2",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "10mg",
-	"country": "Aruba",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-mango-disposable-device_large.jpg?v=1635154095" ,
-"countryCode": "YT"
-},
+
 
 {
 	"id": "14",
