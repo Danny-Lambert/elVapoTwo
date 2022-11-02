@@ -1,5 +1,35 @@
 [
 	
+{
+	"id": "48",
+"brand": "Geek Vape",
+	"flavour": "Jager Bombs",
+	"price": "6",
+	"onOffer": "true",
+	"offerPrice": "2",
+	"isPremium": "true",
+	"isFav": false,
+	"outOfStock": "false",
+	"nicotinePercentage": "20mg",
+	"country": "Sierra Leone",
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-peach-blueberry-candy_1080x.png?v=1660574360" ,
+"countryCode": "AF"
+},
+{
+	"id": "25",
+"brand": "Geek Bar",
+	"flavour": "Baby Guinness",
+	"price": "6",
+	"onOffer": "true",
+	"offerPrice": "2",
+	"isPremium": "false",
+	"isFav": false,
+	"outOfStock": "false",
+	"nicotinePercentage": "10mg",
+	"country": "Belarus",
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-tobacco-disposable-device_1080x.png?v=1666179089" ,
+"countryCode": "RO"
+},
 	{
 	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-blue-razz_1080x.png?v=1666013656",
 	"id": "49",
@@ -163,9 +193,10 @@
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_large.jpg?v=1653244834" ,
 "countryCode": "SY"
 },
+
 {
 	"id": "11",
-"brand": "Elf Bars",
+"brand": "Elf Bar",
 	"flavour": "Apple",
 	"price": "6",
 	"onOffer": "false",
@@ -180,7 +211,7 @@
 },
 {
 	"id": "12",
-"brand": "Elf Bars",
+"brand": "Elf Bar",
 	"flavour": "Helsinki Carrot Casserole",
 	"price": "6",
 	"onOffer": "false",
@@ -243,7 +274,7 @@
 },
 {
 	"id": "18",
-"brand": "Elf Bars",
+"brand": "Elf Bar",
 	"flavour": "Strawberry Raspberry",
 	"price": "3",
 	"onOffer": "false",
@@ -274,7 +305,7 @@
 },
 {
 	"id": "20",
-"brand": "Elf Bars",
+"brand": "Elf Bar",
 	"flavour": "Watermelon",
 	"price": "2",
 	"onOffer": "false",
@@ -347,21 +378,7 @@
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/vozol-bar-500-passion-fruit-disposable-vape_large.jpg?v=1646820491" ,
 "countryCode": "MA"
 },
-{
-	"id": "25",
-"brand": "Geek Bar",
-	"flavour": "Baby Guinness",
-	"price": "6",
-	"onOffer": "true",
-	"offerPrice": "2",
-	"isPremium": "false",
-	"isFav": false,
-	"outOfStock": "false",
-	"nicotinePercentage": "10mg",
-	"country": "Belarus",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-tobacco-disposable-device_1080x.png?v=1666179089" ,
-"countryCode": "RO"
-},
+
 {
 	"id": "26",
 "brand": "Geek Bar",
@@ -379,7 +396,7 @@
 },
 {
 	"id": "27",
-"brand": "Voopoo",
+"brand": "Elf Bar",
 	"flavour": "Cherry Cola",
 	"price": "3",
 	"onOffer": "true",
@@ -484,7 +501,7 @@
 },
 {
 	"id": "34",
-"brand": "Elf Bars",
+"brand": "Elf Bar",
 	"flavour": "Cola",
 	"price": "5",
 	"onOffer": "true",
@@ -514,7 +531,7 @@
 },
 {
 	"id": "36",
-"brand": "Elf Bars",
+"brand": "Elf Bar",
 	"flavour": "Strawberry",
 	"price": "4",
 	"onOffer": "false",
@@ -620,7 +637,7 @@
 },
 {
 	"id": "45",
-"brand": "Elf Bars",
+"brand": "Elf Bar",
 	"flavour": "Strawberry Kiwi",
 	"price": "5",
 	"onOffer": "true",
@@ -647,20 +664,5 @@
 	"country": "Peru",
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-watermelon-ice-disposable-vape_large.png?v=1657811337" ,
 "countryCode": "PL"
-},
-{
-	"id": "48",
-"brand": "Geek Vape",
-	"flavour": "Jager Bombs",
-	"price": "6",
-	"onOffer": "true",
-	"offerPrice": "2",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "false",
-	"nicotinePercentage": "20mg",
-	"country": "Sierra Leone",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-peach-blueberry-candy_1080x.png?v=1660574360" ,
-"countryCode": "AF"
 }
 ]
