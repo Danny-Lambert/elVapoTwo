@@ -1,7 +1,7 @@
 [
 	
 	{
-	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-blue-razz_large.jpg?v=1653060426",
+	"image":"https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-blue-razz_1080x.png?v=1666013656",
 	"id": "49",
 	"brand": "FleurBar",
 	"flavour": "Blue Razz",
@@ -27,7 +27,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "20mg",
 	"country": "Israel",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-chewy-watermelon_large.jpg?v=1653119105" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-passion-fruit_1080x.png?v=1666013494" ,
 "countryCode": "DK"
 },
 {
@@ -72,7 +72,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "0mg",
 	"country": "Nigeria",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-banana-ice_large.jpg?v=1653119095" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-lemon_1080x.png?v=1666013572" ,
 "countryCode": "TH"
 },
 {
@@ -102,7 +102,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "10mg",
 	"country": "Northern Mariana Islands",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_large.jpg?v=1653244834" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_1080x.png?v=1666013572" ,
 "countryCode": "KR"
 },{
 	"id": "7",
@@ -145,7 +145,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "5mg",
 	"country": "Central African Republic",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-watermelon-ice-geek-bar-disposable-device_large.jpg?v=1623064252" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-mango-ice-disposable-device_1080x.png?v=1666178964" ,
 "countryCode": "NL"
 },
 {
@@ -175,7 +175,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "20mg",
 	"country": "Virgin Islands, British",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-kiwi-passion-fruit-guava-disposable-device_large.jpg?v=1626883890" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flerbar-disposable-vape-orange_1080x.png?v=1666013572" ,
 "countryCode": "PW"
 },
 {
@@ -210,21 +210,7 @@
 "countryCode": "DJ"
 },
 
-{
-	"id": "15",
-"brand": "Geek Bar",
-	"flavour": "Cherry",
-	"price": "6",
-	"onOffer": "true",
-	"offerPrice": "1",
-	"isPremium": "false",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "0mg",
-	"country": "Slovakia",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-watermelon-ice-geek-bar-disposable-device_large.jpg?v=1623064252" ,
-"countryCode": "HR"
-},
+
 {
 	"id": "16",
 "brand": "randomSMOKAspire",
@@ -258,7 +244,7 @@
 {
 	"id": "18",
 "brand": "Elf Bars",
-	"flavour": "Raspberry",
+	"flavour": "Strawberry Raspberry",
 	"price": "3",
 	"onOffer": "false",
 	"offerPrice": "2",
@@ -267,7 +253,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "20mg",
 	"country": "Botswana",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-strawberry-ice-disposable-device_large.jpg?v=1626884403" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-disposable-device-strawberry-raspberry-cherry-ice_1080x.png?v=1666108453" ,
 "countryCode": "ET"
 },
 {
@@ -298,7 +284,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "20mg",
 	"country": "Dominica",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-watermelon-disposable-device_large.jpg?v=1632905384" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-disposable-device-watermelon_1080x.png?v=1666108459" ,
 "countryCode": "PM"
 },
 {
@@ -328,7 +314,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "10mg",
 	"country": "Turkmenistan",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-sour-apple-geek-bar-disposable-device_large.jpg?v=1623064217" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-watermelon-ice-disposable-device_1080x.png?v=1666179061" ,
 "countryCode": "IQ"
 },
 {
@@ -343,7 +329,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "0mg",
 	"country": "American Samoa",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/vozol-bar-500-orange-soda-disposable-vape_large.jpg?v=1646820565" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-unicorn-milkshake_1080x.png?v=1660574431" ,
 "countryCode": "NI"
 },
 {
@@ -373,7 +359,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "10mg",
 	"country": "Belarus",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-peach-blueberry-candy_large.png?v=1660574360" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-tobacco-disposable-device_1080x.png?v=1666179089" ,
 "countryCode": "RO"
 },
 {
@@ -403,7 +389,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "10mg",
 	"country": "Portugal",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-cherry-cola-disposable-device_large.jpg?v=1653410356" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-disposable-device-cherry-cola_1080x.png?v=1666108053" ,
 "countryCode": "KN"
 },
 {
@@ -448,7 +434,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "0mg",
 	"country": "Slovakia",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/beco-bar-mango-ice-20mg-disposable-device_large.jpg?v=1610017154" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-mango-ice-disposable-device_1080x.png?v=1666178964" ,
 "countryCode": "TK"
 },
 {
@@ -493,13 +479,13 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "5mg",
 	"country": "Macedonia, The Former Yugoslav Republic of",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-cola_large.png?v=1660574239" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-cola_1080x.png?v=1660574239" ,
 "countryCode": "PS"
 },
 {
 	"id": "34",
 "brand": "Elf Bars",
-	"flavour": "Cherry",
+	"flavour": "Cola",
 	"price": "5",
 	"onOffer": "true",
 	"offerPrice": "2",
@@ -508,7 +494,7 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "0mg",
 	"country": "Tuvalu",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-grape-disposable-device_large.jpg?v=1626883900" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-disposable-device-cola_1080x.png?v=1666108150" ,
 "countryCode": "HK"
 },
 {
@@ -523,7 +509,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "0mg",
 	"country": "Comoros",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-peach-blueberry-candy_large.png?v=1660574360" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-cola_1080x.png?v=1660574239" ,
 "countryCode": "BO"
 },
 {
@@ -538,7 +524,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "5mg",
 	"country": "Chile",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/vaporesso-puffmi-tx500-strawberry-ice_large.jpg?v=1643807298" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-disposable-device-strawberry-ice_1080x.png?v=1666108487" ,
 "countryCode": "BH"
 },
 {
@@ -553,23 +539,8 @@
 	"outOfStock": "true",
 	"nicotinePercentage": "5mg",
 	"country": "Bosnia and Herzegovina",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-dragbar-600-disposable-device-mango-ice_large.jpg?v=1637241533" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-cola_1080x.png?v=1660574239" ,
 "countryCode": "NO"
-},
-{
-	"id": "38",
-"brand": "Elf Bars",
-	"flavour": "Vanilla",
-	"price": "7",
-	"onOffer": "false",
-	"offerPrice": "3",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "false",
-	"nicotinePercentage": "10mg",
-	"country": "Afghanistan",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-elfbull-ice-disposable-device_large.jpg?v=1649673353" ,
-"countryCode": "AT"
 }
 ,
 {
@@ -644,13 +615,13 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "5mg",
 	"country": "Denmark",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/beco-mate-green-grape-disposable-device_large.jpg?v=1629370565" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-blackcurrant-menthol-disposable-device_1080x.png?v=1666178696" ,
 "countryCode": "AN"
 },
 {
 	"id": "45",
 "brand": "Elf Bars",
-	"flavour": "Vanilla",
+	"flavour": "Strawberry Kiwi",
 	"price": "5",
 	"onOffer": "true",
 	"offerPrice": "1",
@@ -659,7 +630,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "20mg",
 	"country": "Falkland Islands (Malvinas)",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-peach-ice-disposable-device_large.jpg?v=1635154103" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-disposable-device-strawberry-kiwi_1080x.png?v=1666108459" ,
 "countryCode": "VA"
 },
 {
@@ -678,21 +649,6 @@
 "countryCode": "PL"
 },
 {
-	"id": "47",
-"brand": "Geek Vape",
-	"flavour": "Jager Bombs",
-	"price": "6",
-	"onOffer": "true",
-	"offerPrice": "2",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "false",
-	"nicotinePercentage": "20mg",
-	"country": "Sierra Leone",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-elfbull-ice-disposable-device_large.jpg?v=1649673353" ,
-"countryCode": "AF"
-},
-{
 	"id": "48",
 "brand": "Geek Vape",
 	"flavour": "Jager Bombs",
@@ -704,22 +660,7 @@
 	"outOfStock": "false",
 	"nicotinePercentage": "20mg",
 	"country": "Sierra Leone",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-kiwi-passion-fruit-disposable-device_large.jpg?v=1633600561" ,
-"countryCode": "AF"
-},
-{
-	"id": "49",
-	"brand": "Geek Vape",
-	"flavour": "Pink Lemonade",
-	"price": "6",
-	"onOffer": "true",
-	"offerPrice": "2",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "false",
-	"nicotinePercentage": "20mg",
-	"country": "Sierra Leone",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-peach-ice-geek-bar-disposable-device_large.jpg?v=1623064215" ,
+	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-peach-blueberry-candy_1080x.png?v=1660574360" ,
 "countryCode": "AF"
 }
 ]
