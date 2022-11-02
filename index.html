@@ -12,52 +12,49 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Knewave&family=Nobile&family=Tillana&display=swap" rel="stylesheet">
 </head> 
 <body> 
-    <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Navbar</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Dropdown
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Action</a></li>
-                  <li><a class="dropdown-item" href="#">Another action</a></li>
-                  <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="#">Something else here</a></li>
-                </ul>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link disabled">Disabled</a>
-              </li>
-            </ul>
-            <form class="d-flex" role="search">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
-          </div>
+    <div class="row  mt-4 justify-content-between">
+        <div class="col-3">
+            <details>
+                <summary class="summary">
+                    <i class="fa-solid fa-bars iconToHideAndShow"></i>                
+                    <i class="fa-solid fa-xmark d-none iconToHideAndShow"></i>
+                </summary>
+                <nav class="menu">
+                    <a href="#link">Home</a>
+                    <a href="#link">Vapes</a>
+                    <a href="#link">Vape Boxes</a>
+                    <a href="#link">Offers</a>
+                    <a href="#link">Contact</a>
+                </nav>
+            </details>
         </div>
-      </nav>        
-      <div class="logoContainer text-center"><img src="./images/LogoIdea1.png" class="w-100" /> </div>   
-      <div class="my-3 p-3 text-center underLogoText">
-          <h3 class="mb-5 p-3">Join the UK's first Vape subscription box service. <a href="">Sign up</a> and choose from one of the options below to start your hassle free vape life!</h3>
-          <h4> - Let our clever algorythm personalise your boxes to your taste</h4>
-          <h4> - Choose your own flavours from around the world to try</h4>
-          <h4> - Choose from one of our mystery boxes!</h4>        
+        <div class="col-2">
+                <i class="fa-solid fa-basket-shopping details"></i>
         </div>
+    </div>
+    
+    <div class="row align-items-center" style="height:100vh ;">       
+        <div class="logoContainer col-lg-6 col-12 text-center"><img src="./images/LogoIdea1.png" class="w-100" /> </div>   
+        <div class="text-logo col-lg-6 col-12">
+            <div class="my-3 p-3 text-center ">
+                <!-- <h3 class="mb-5 p-3"><span>Join the UK's first Vape subscription box service.</span><br><span><a href="">Sign up</a> and choose from one of the options below to start your hassle free vape life!</h3></span> -->
+            </div>    
+        </div>
+    </div> 
+<div class="second-page w-100 h-50">                
+    <h4> - Let our clever algorythm personalise your boxes to your taste</h4>
+    <h4> - Choose your own flavours from around the world to try</h4>
+    <h4> - Choose from one of our mystery boxes!</h4>        
+</div>
+
         <div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonDataBoxes"></div>
+        <div class="vapeSeperator">Add your own choices below by adding vapes to your basket</div>
         <div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonData"></div>
 
 
@@ -65,7 +62,9 @@
 <script type="module" src="./main.js"></script>
 <script type="text/javascript">
 
-
+    $(".summary").click(function(){
+        $(".iconsToHideAndShow").toggleClass("d-none")
+    })
 
 </script>
 
