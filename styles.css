@@ -12,10 +12,16 @@ background-color: #ffead8 !important;
 
 .second-page{
   background-color: white;
-  padding: 5rem;
+  padding: 2rem;
+  width: 100vw;
+
 }
 .vapeImage{
   width: 50%;
+}
+.vapeSeperator{
+font-weight: 600;
+font-size: 3rem;
 }
 .container-new-card {
   margin: 30px auto;
@@ -49,7 +55,12 @@ background-color: #ffead8 !important;
   font-size: 11px;
   color: #fff;
 }
-
+.product-properties{
+  height: 6rem;
+}
+.product-size{
+  padding-bottom: 1rem;  
+}
 .product-detail h4 {
   font-size: 18px;
   font-weight: 500;
@@ -59,7 +70,7 @@ background-color: #ffead8 !important;
 }
 
 .card-body-new-card {
-  height: 255px;
+  height: fit-content;
   background: #fff;
   border-radius: 0 0 25px 25px;
 }
@@ -289,4 +300,8 @@ details[open]::before {
   100% {
     opacity: 0;
   }
+}
+.algoImage{
+  height: 87px;
+    border-radius: 31%;
 }

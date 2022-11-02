@@ -17,8 +17,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Knewave&family=Nobile&family=Tillana&display=swap" rel="stylesheet">
 </head> 
 <body> 
-        <div class="container-fluid">
-    <div class="row  mt-4 justify-content-between">
+    <div class="row  mt-4 justify-content-between" style="padding-right: calc(var(--bs-gutter-x) * .5);padding-left: calc(var(--bs-gutter-x) * .5);">
         <div class="col-3">
             <details>
                 <summary class="summary">
@@ -26,9 +25,9 @@
                     <i class="fa-solid fa-xmark d-none iconToHideAndShow"></i>
                 </summary>
                 <nav class="menu">
-                    <a href="#link">Home</a>
-                    <a href="#link">Vapes</a>
+                    <a href=".summary">Home</a>
                     <a href="#link">Vape Boxes</a>
+                    <a href="#vapeText">Vapes</a>
                     <a href="#link">Offers</a>
                     <a href="#link">Contact</a>
                 </nav>
@@ -47,14 +46,33 @@
             </div>    
         </div>
     </div> 
-<div class="second-page w-100 h-50">                
-    <h4> - Let our clever algorythm personalise your boxes to your taste</h4>
-    <h4> - Choose your own flavours from around the world to try</h4>
-    <h4> - Choose from one of our mystery boxes!</h4>        
+<div class="second-page w-100 h-50">    
+    <div class="row mb-5">
+        <h4>Get vapes delivered straight to your door, sign up today and get 25% off your first order.  Get started by checking out your options below</h4>
+    </div>            
+    <div class="row mb-4">
+        <h5 class="col-12 p-0"> - Let our clever algorythm personalise your boxes to your taste</h5>
+        <!-- <img class="col-6 algoImage" src="./images/algorthym.jpg"> -->
+    </div>
+    <div class="row mb-4">
+        <!-- <img class="col-6 algoImage" src="./images/world.png"> -->
+        <h5 class="col-12 p-0"> - Choose your own flavours from around the world to try</h5>
+
+    </div>
+    <div class="row">
+        <h5 class="col-12 p-0"> - Choose from one of our mystery boxes!</h5>       
+        <!-- <img class="col-6 algoImage" src="./images/algorthym.jpg"> -->
+
+    </div> 
 </div> 
 
-        <div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonDataBoxes"></div>
-        <div class="vapeSeperator">Add your own choices below by adding vapes to your basket</div>
+
+<div class=" bg-light h1 p-5 text-center vapeSeperator mt-5" id="vapeText">~ Boxes ~</div>
+
+<!-- <div class="vapeSeperator" id="vapeText">Add your own choices below by adding vapes to your basket</div> -->
+<div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonDataBoxes"></div>
+<div class=" bg-light h1 p-5 text-center vapeSeperator" id="vapeText">~ Vapes ~</div>
+
         <div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonData"></div>
 
 

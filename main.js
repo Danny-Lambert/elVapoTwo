@@ -26,9 +26,8 @@ const newVapes = vapeData.map((vape) => {
                     <p class="col-auto ">Nicotine -</p>
                     <p class="col-auto ps-0">${vape.nicotinePercentage}</p>
                 </span>
-                <br/>
                 </div>
-                <span class="product-size mt-2 justify-content-evenly mx-2 row">
+                <span class="product-size mt-2 justify-content-evenly pb-4  mx-2 row">
                 <button role="button" id="heartButton"   class="button-17 heartButton col-5"><i id="heartButtonIcon" class="fa-solid heartDefaultColour heartButtonIcon fa-heart"></i></button>
                 <button role="button" class="col-5 button-17 addToBoxButton" style="background:#81ff81;font-weight: bold;">
                 <span class="addTobBoxSpan ">Add to Box</span>
