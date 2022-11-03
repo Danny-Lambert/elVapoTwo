@@ -230,21 +230,7 @@
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ske-crystal-bar-lemon-and-lime-disposable-vape_1080x.png?v=1657810531" ,
 "countryCode": "ES"
 },
-{
-	"id": "17",
-"brand": "Innokin",
-	"flavour": "Cherry Cola",
-	"price": "4",
-	"onOffer": "true",
-	"offerPrice": "3",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "false",
-	"nicotinePercentage": "5mg",
-	"country": "Maldives",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/elf-bar-600-cherry-cola-disposable-device_large.jpg?v=1653410356" ,
-"countryCode": "SV"
-},
+
 {
 	"id": "18",
 "brand": "Elf Bar",
@@ -322,37 +308,7 @@
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geek-bar-e600-disposable-vape-unicorn-milkshake_1080x.png?v=1660574431" ,
 "countryCode": "NI"
 },
-{
-	"id": "24",
-"brand": "Vaporesso",
-	"flavour": "Helsinki Carrot Casserole",
-	"price": "2",
-	"onOffer": "false",
-	"offerPrice": "3",
-	"isPremium": "false",
-	"isFav": false,
-	"outOfStock": "false",
-	"nicotinePercentage": "10mg",
-	"country": "Vanuatu",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/vozol-bar-500-passion-fruit-disposable-vape_large.jpg?v=1646820491" ,
-"countryCode": "MA"
-},
 
-{
-	"id": "26",
-"brand": "Geek Bar",
-	"flavour": "Menthol",
-	"price": "4",
-	"onOffer": "false",
-	"offerPrice": "2",
-	"isPremium": "false",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "0mg",
-	"country": "Peru",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/zovoo-dragbar-600-disposable-device-mango-ice_large.jpg?v=1637241533" ,
-"countryCode": "DM"
-},
 {
 	"id": "27",
 "brand": "Elf Bar",
@@ -412,21 +368,6 @@
 	"country": "Slovakia",
 	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/geekvape-geek-bar-mango-ice-disposable-device_1080x.png?v=1666178964" ,
 "countryCode": "TK"
-},
-{
-	"id": "31",
-"brand": "randomSMOKAspire",
-	"flavour": "Cola",
-	"price": "6",
-	"onOffer": "false",
-	"offerPrice": "1",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "20mg",
-	"country": "Japan",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/flum-mi-disposable-vape-fruity-hawaii_large.jpg?v=1655822509" ,
-"countryCode": "HU"
 },
 {
 	"id": "32",
@@ -534,36 +475,7 @@
 	"country": "Botswana",
 "countryCode": "TV"
 },
-{
-	"id": "41",
-"brand": "Voopoo",
-	"flavour": "Cherry",
-	"price": "4",
-	"onOffer": "true",
-	"offerPrice": "1",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "20mg",
-	"country": "Iraq",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/ultd-salts-getsome-grape-20mg-disposable-puff-bar-device_large.jpg?v=1610102499" ,
-"countryCode": "HT"
-},
-{
-	"id": "42",
-"brand": "Vaporesso",
-	"flavour": "Jager Bombs",
-	"price": "6",
-	"onOffer": "false",
-	"offerPrice": "3",
-	"isPremium": "true",
-	"isFav": false,
-	"outOfStock": "true",
-	"nicotinePercentage": "20mg",
-	"country": "Singapore",
-	"image": "https://cdn.shopify.com/s/files/1/1427/3768/products/gee-600-disposable-vape-orange-cinnamon-tea_large.jpg?v=1646995478" ,
-"countryCode": "HR"
-},
+
 {
 	"id": "43",
 "brand": "IVG Crystal",
