@@ -86,16 +86,15 @@
 
 
 </body>
-<script type="text/javascript">
+<script type="module">
 
     $(".summary").click(function(){
         $(".iconsToHideAndShow").toggleClass("d-none")
     })
-</script>
 
-<script type="module">
-        import vapes from './vapes.json' assert {type: 'json'};
-import vapeBoxes from './vapeBoxes.json' assert {type: 'json'};
+    import vapes from './vapes.json' assert {type: 'json'};
+    import vapeBoxes from './vapeBoxes.json' assert {type: 'json'};
+    window.onload = function() {
 
 var vapeData = vapes
 var vapeBoxData = vapeBoxes
@@ -196,7 +195,7 @@ const newVapeBoxes = vapeBoxData.map((vapeBoxes) => {
         alert("click")
       });
 
-
+    }
 </script>
 
 </html>
