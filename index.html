@@ -97,9 +97,9 @@
         import vapes from './vapes.json' assert {type: 'json'};
 import vapeBoxes from './vapeBoxes.json' assert {type: 'json'};
 
-const vapeData = vapes
-const vapeBoxData = vapeBoxes
-const newVapes = vapeData.map((vape) => {
+var vapeData = vapes
+var vapeBoxData = vapeBoxes
+var newVapes = vapeData.map((vape) => {
         return `
 
         <div class="col-9 col-sm-5 col-md-4 col-lg-3 mx-2" >
