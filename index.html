@@ -99,7 +99,7 @@
 
 var vapeData = vapes
 var vapeBoxData = vapeBoxes
-var newVapes = vapeData.map(function(vape) {
+var newVapes = vapeData.map((vape) => {
         return `
 
         <div class="col-9 col-sm-5 col-md-4 col-lg-3 mx-2" >
@@ -136,7 +136,7 @@ var newVapes = vapeData.map(function(vape) {
 
 
         });
-const newVapeBoxes = vapeBoxData.map(function(vapeBoxes) {
+const newVapeBoxes = vapeBoxData.map((vapeBoxes) => {
     return `
     <div class="col-9 col-sm-5 col-md-4 col-lg-3 mx-2" >
         <div class="card-new-card  mb-5 px-0">
@@ -178,8 +178,7 @@ const newVapeBoxes = vapeBoxData.map(function(vapeBoxes) {
     document.getElementById("jsonData").innerHTML = newVapes;
     document.getElementById("jsonDataBoxes").innerHTML = newVapeBoxes;
 
-}
-
+    
     
     $(".addToBoxButton").click(function(){
         if($(this).children().hasClass("d-none")){
@@ -192,8 +191,12 @@ const newVapeBoxes = vapeBoxData.map(function(vapeBoxes) {
         $(this).children().toggleClass("heartDefaultColour")
       });
 
+      $(".details").click(function(){
+        // $(this).children().toggleClass("text-danger")
+        alert("click")
+      });
 
-
+    }
 </script>
 
 </html>
