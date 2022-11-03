@@ -94,8 +94,9 @@
 
     import vapes from './vapes.json' assert {type: 'json'};
     import vapeBoxes from './vapeBoxes.json' assert {type: 'json'};
+    
     window.onload = function() {
-
+        setInterval(function(){
 var vapeData = vapes
 var vapeBoxData = vapeBoxes
 var newVapes = vapeData.map((vape) => {
@@ -177,7 +178,8 @@ const newVapeBoxes = vapeBoxData.map((vapeBoxes) => {
     document.getElementById("jsonData").innerHTML = newVapes;
     document.getElementById("jsonDataBoxes").innerHTML = newVapeBoxes;
 
-    
+     }, 3000);
+    }
     
     $(".addToBoxButton").click(function(){
         if($(this).children().hasClass("d-none")){
@@ -195,7 +197,6 @@ const newVapeBoxes = vapeBoxData.map((vapeBoxes) => {
         alert("click")
       });
 
-    }
 </script>
 
 </html>
