@@ -35,56 +35,41 @@
             </details>
         </div>
         <div class="col-2">
-                <i class="fa-solid ms-3 fa-basket-shopping details"></i>
+            <i class="fa-solid ms-3 fa-basket-shopping details"></i>
         </div>
     </div>
-    
     <div class="row align-items-center" style="height:100vh ; width: 100vw;">       
         <div class="logoContainer col-lg-6 col-12 text-center"><img src="./images/LogoIdea1.png" class="w-100" /> </div>   
         <div class="text-logo col-lg-6 col-12">
             <div class="my-3 p-3 text-center ">
-                <!-- <h3 class="mb-5 p-3"><span>Join the UK's first Vape subscription box service.</span><br><span><a href="">Sign up</a> and choose from one of the options below to start your hassle free vape life!</h3></span> -->
             </div>    
         </div>
     </div> 
-<div class="second-page w-100 h-50">    
-    <div class="row mb-5 text-center">
-        <h3 class="mb-5">Get vapes delivered straight to your door! Sign up today and get 25% off your first order.</h3>
-        <br>
-        <br>
-        <h4>Get started by checking out your options below</h4>
-    </div>            
-    <div class="row mb-4">
-        <h1 class="col-2">1</h1>
-        <h5 class="col-10 p-0">Let our clever algorythm personalise your boxes to your taste</h5>
-        <!-- <img class="col-6 algoImage" src="./images/algorthym.jpg"> -->
-    </div>
-    <div class="row mb-4">
-        <!-- <img class="col-6 algoImage" src="./images/world.png"> -->
-        <h1 class="col-2">2</h1>
-
-        <h5 class="col-10 p-0">Choose your own flavours from around the world to try</h5>
-
-    </div>
-    <div class="row">
-        <h1 class="col-2">3</h1>
-
-        <h5 class="col-10 p-0">Choose from one of our mystery boxes!</h5>       
-        <!-- <img class="col-6 algoImage" src="./images/algorthym.jpg"> -->
-
+    <div class="second-page w-100 h-50">    
+        <div class="row mb-5 text-center">
+            <h3 class="mb-5">Get vapes delivered straight to your door! Sign up today and get 25% off your first order.</h3>
+            <br>
+            <br>
+            <h4>Get started by checking out your options below</h4>
+        </div>            
+        <div class="row mb-4">
+            <h1 class="col-2">1</h1>
+            <h5 class="col-10 p-0">Let our clever algorythm personalise your boxes to your taste</h5>
+        </div>
+        <div class="row mb-4">
+            <h1 class="col-2">2</h1>
+            <h5 class="col-10 p-0">Choose your own flavours from around the world to try</h5>
+        </div>
+        <div class="row">
+            <h1 class="col-2">3</h1>
+            <h5 class="col-10 p-0">Choose from one of our mystery boxes!</h5>       
+        </div> 
     </div> 
-</div> 
 
-
-<div class=" bg-light h1 p-5 text-center vapeSeperator mt-5" id="vapeBoxesText">~ Boxes ~</div>
-
-<!-- <div class="vapeSeperator" id="vapeText">Add your own choices below by adding vapes to your basket</div> -->
-<div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonDataBoxes"></div>
-<div class=" bg-light h1 p-5 text-center vapeSeperator" id="vapeText">~ Vapes ~</div>
-
-        <div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonData"></div>
-
-
+    <div class=" bg-light h1 p-5 text-center vapeSeperator mt-5" id="vapeBoxesText">~ Boxes ~</div>
+    <div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonDataBoxes"></div>
+    <div class=" bg-light h1 p-5 text-center vapeSeperator" id="vapeText">~ Vapes ~</div>   
+    <div class="container-new-card justify-content-lg-evenly justify-content-center mt-5 mx-0 row w-100" id="jsonData"></div>
 </body>
 <script type="module">
 
@@ -186,7 +171,7 @@ const newVapeBoxes = vapeBoxData.map((vapeBoxes) => {
         }
       });
 
-    $(".heartButton").click(function(){
+      $(".heartButton").click(function(){
         $(this).children().toggleClass("text-danger")
         $(this).children().toggleClass("heartDefaultColour")
       });
